@@ -1,0 +1,12 @@
+[User]
+user.login=X0013-AutoTest_1
+lock_user.login=X0013-AutoTest_2
+partner_user.login=X0018-AutoTest_1
+
+user.password=#11tvpp#
+
+[Client]
+MF_number.one_contract=491517120844
+FN_number.one_contract=456
+MF_number.many_contracts=789
+FN_number.many_contracts=159
